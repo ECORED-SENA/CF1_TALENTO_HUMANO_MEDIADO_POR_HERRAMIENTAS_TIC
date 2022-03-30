@@ -34,6 +34,7 @@
         p.mb-5 En los medios comerciales, industriales y de servicio se puede hallar una gran diversidad de tipología de clientes según diversos criterios:  el papel que juega, la personalidad, la relación con la empresa, la rentabilidad que representa.
         figure
           img(src='@/assets/curso/tema3/img2.svg', style="width: 800px").m-auto
+          figcaption.mt-4 Nota. Blanco García (2013).
     .row.bg-color11
       .col-12.p-5
         .row.mb-5

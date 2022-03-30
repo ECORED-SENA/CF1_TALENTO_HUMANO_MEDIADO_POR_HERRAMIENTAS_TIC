@@ -21,7 +21,7 @@
         .row.mb-5.justify-content-center
           .col-lg-10
             .titulo-sexto.color-acento-contenido
-              p.mb-0 Elementos de un proceso
+              p.mb-0 #[b Figura 6] Elementos de un proceso
             figure
               img(src='@/assets/curso/tema5/img2.svg', style="width: 1200px").m-auto
         .row.mb-5.align-items-center
@@ -33,9 +33,10 @@
         .row.mb-5.justify-content-center
           .col-lg-10
             .titulo-sexto.color-acento-contenido
-              p.mb-0 Ejemplo de un protocolo
+              p.mb-0 #[b Figura 7] Ejemplo de un protocolo
             figure
               img(src='@/assets/curso/tema5/img4.svg', style="width: 800px").m-auto
+              figcaption.mt-4 Nota. SENA (2020).
         .row
           .col-lg-7.mb-4.mb-lg-0
             p.mb-4 Es recomendable utilizar diagramas o esquemas para presentar el protocolo o procedimiento a los interesados, con lo cual se logran las siguientes ventajas:

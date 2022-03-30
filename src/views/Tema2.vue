@@ -93,7 +93,7 @@
                 figure
                   img(src='@/assets/curso/tema1/img1.svg', style="width: 60px")
               .col
-                p Además de estar enfocado en el cliente (lo que observa, dice, calla, pregunta, siente, quiere, etc.), adoptó otras transformaciones centradas en las relaciones con el personal interno, buscando hacer menos jerarquizada la organización, mucho más participativa, donde se escuchará con todos los sentidos a los directos encargados de tratar con el cliente. Para conocer más de las estrategias utilizadas por Jan Carlzon en la transformación cultural de Scandinavian Airlines SAS, ingrese y lea apartes del texto El momento de la verdad, que se encuentra en el sistema de bibliotecas del SENA.
+                p Además de estar enfocado en el cliente (lo que observa, dice, calla, pregunta, siente, quiere, etc.), adoptó otras transformaciones centradas en las relaciones con el personal interno, buscando hacer menos jerarquizada la organización, mucho más participativa, donde se escuchará con todos los sentidos a los directos encargados de tratar con el cliente. Para conocer más de las estrategias utilizadas por Jan Carlzon en la transformación cultural de Scandinavian Airlines SAS, ingrese y lea apartes del texto #[b El momento de la verdad], que se encuentra en el sistema de bibliotecas del SENA.
             .tarjeta.color-primario.p-3.mb-4
               .row.justify-content-around.align-items-center
                 .col-3.col-sm-2.col-lg-1
@@ -135,7 +135,7 @@
             h4.txt-deco3 Triángulo de servicio
             p El modelo creado en la década de los 80 por el empresario #[span.txt-deco1 Alemán Karl Albrecht, quien en dos de sus obras “Gerencia del servicio” (2003)  y “La revolución del servicio” (2004)], representa en esta estructura los elementos que indispensablemente deben girar en torno al cliente, por eso, la necesidad básica de preguntar por sus expectativas, deseos, necesidades, escuchar sus solicitudes, quejas, sugerencias, reclamos; como también indagar por sus condiciones demográficas (localidad, edad, género, economía) y psicográficas (condición social, necesidades, expectativas, gustos, motivaciones, restricciones).
             .row
-              .col-12
+              .col-12.bg-color13
                 .p-4
                   .row
                     .col-auto
@@ -260,7 +260,7 @@
     .row.mb-5.justify-content-center
       .col-lg-10
         .titulo-sexto.color-acento-contenido
-          p.mb-0 Decálogo de oro para atención telefónica
+          p.mb-0 #[b Figura 3] Decálogo de oro para atención telefónica
         figure
           img(src='@/assets/curso/tema2/img13.svg', style="width: 1200px").m-auto
           figcaption.mt-4 Nota: Adaptado de Serna, (2006).
@@ -274,11 +274,11 @@
     .row.mb-5.justify-content-center
       .col-lg-8
         .titulo-sexto.color-acento-contenido
-          p.mb-0 Decálogo de oro para atención telefónica
+          p.mb-0 #[b Figura 4] Recomendaciones de uso del ciberespacio
         figure
           img(src='@/assets/curso/tema2/img14.svg', style="width: 1200px").m-auto
-          figcaption.mt-4 Nota: Adaptado de Serna, (2006).
-    p.mb-5 Para complementar la información acerca de las normas de cortesía y protocolos de los espacios virtuales, realice la lectura del documento 10 reglas básicas de la netiqueta, el cual se encuentra en el material complementario.
+          figcaption.mt-4 Nota: SENA (2020).
+    p.mb-5 Para complementar la información acerca de las normas de cortesía y protocolos de los espacios virtuales, realice la lectura del documento #[b 10 reglas básicas de la netiqueta], el cual se encuentra en el material complementario.
     .row.mb-5
       .col-lg-7.mb-4.mb-lg-0
         h4.txt-deco3 Otros medios
@@ -347,7 +347,7 @@
             figure
               img(src='@/assets/curso/tema1/img1.svg', style="width: 60px")
           .col
-            p.mb-0 Ante las actuales circunstancias se están utilizando nuevos mecanismos como el Chatbot, mediante los cuales se atienden en línea preguntas frecuentes de los clientes o usuarios, también se utilizan las redes sociales como Facebook e Instagram, WhatsApp y aplicaciones tecnológicas propias de cada organización.
+            p.mb-0 Ante las actuales circunstancias se están utilizando nuevos mecanismos como el #[i Chatbot], mediante los cuales se atienden en línea preguntas frecuentes de los clientes o usuarios, también se utilizan las redes sociales como Facebook e Instagram, WhatsApp y aplicaciones tecnológicas propias de cada organización.
         .cajon.color-secundario.p-4
           p.mb-0 Consulte los criterios normativos para la presentación y atención de PQRS en la dirección del DNP (Departamento Nacional de Planeación), que igualmente son sugeridas para empresas privadas, dados los beneficios de retorno para quien los usa.
 

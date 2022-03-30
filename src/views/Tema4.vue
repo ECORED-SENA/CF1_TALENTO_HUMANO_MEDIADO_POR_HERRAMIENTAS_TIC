@@ -33,6 +33,8 @@
             i.fas.fa-angle-right(style="color: #7F4FC7")
             | Certificaciones de calidad u otras representativas.
     p.mb-5 Por ejemplo, visualice la manera cómo el SENA presenta sus servicios, ver figura.
+    .titulo-sexto.color-acento-contenido.mb-5
+      p.mb-0 #[b Figura 5] Portafolio de servicio SENA
     figure
       img(src='@/assets/curso/tema4/img1.svg', style="width: 800px").m-auto
 

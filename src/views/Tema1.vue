@@ -23,8 +23,11 @@
         p Dentro de los elementos del contexto la cultura organizacional invita a cada trabajador no solo a involucrarse con su organización, sino a comprometerse con la colectividad, es decir, a adoptar como propios los valores, principios, políticas y protocolos de la organización.
     .row.p-5.mb-5.bg-color2
       .col-12
-        figure
+        .titulo-sexto.color-acento-contenido.mb-5
+          p.mb-0 #[b Figura 1] Contexto de la organización
+        figure.mb-5
           img(src='@/assets/curso/tema1/img2.svg', style="width: 1200px").m-auto
+        p #[b Nota]. Tomado de Pymesycalidad20.com (2014).
     #t_1_1
     .titulo-segundo.color-secundario
       h2 1.1 Sector y actividad económica
@@ -268,7 +271,7 @@
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema1/img6.png', style="width: 650px")
       .col-lg-7
-        p La imagen personal es el conjunto de características físicas, atributos y actitudes que proyecta una persona y que los demás perciben. Es una carta de presentación que expresa la manera como cada persona pretende comunicarse y lo que transmite su presencia. Desde el hogar y la educación básica se promulgó por bastantes años el famoso “Manual de urbanidad y buenas maneras” del venezolano Manuel Antonio Carreño (1812-1874), ahora tenemos versiones actualizadas debido a los avances y cambios en los ambientes democráticos y de pluralidad, como la guía del Ministerio de Educación Nacional en la serie de cartillas “Formar para la ciudadanía sí es posible” donde se encuentran los Estándares básicos de competencias ciudadanas (Ministerio de Educación Nacional, 2004).
+        p La imagen personal es el conjunto de características físicas, atributos y actitudes que proyecta una persona y que los demás perciben. Es una carta de presentación que expresa la manera como cada persona pretende comunicarse y lo que transmite su presencia. Desde el hogar y la educación básica se promulgó por bastantes años el famoso #[span.txt-deco1 “Manual de urbanidad y buenas maneras” del venezolano Manuel Antonio Carreño (1812-1874)], ahora tenemos versiones actualizadas debido a los avances y cambios en los ambientes democráticos y de pluralidad, como la guía del Ministerio de Educación Nacional en la serie de cartillas “Formar para la ciudadanía sí es posible” donde se encuentran los Estándares básicos de competencias ciudadanas (Ministerio de Educación Nacional, 2004).
         .row
           .col-auto
             figure
@@ -291,7 +294,7 @@
               img(src='@/assets/curso/tema1/img15.svg', style="width: 390px").m-auto
           .col-lg-7
             h4.txt-deco4 Etiqueta empresarial:  logo, colores, indumentaria, uso de dotación
-            p Es importante fijarse en lo que cada trabajador representa para la organización, ya que, al vincularse a una organización, debe adoptar elementos de la imagen organizacional dispuesta, por ello es común que en la inducción de los trabajadores se presente lo relacionado con el nombre, logo, colores, distintivos, dotación de los trabajadores, para que sea debidamente utilizada en cada puesto de trabajo.
+            p.txt-deco5 Es importante fijarse en lo que cada trabajador representa para la organización, ya que, al vincularse a una organización, debe adoptar elementos de la imagen organizacional dispuesta, por ello es común que en la inducción de los trabajadores se presente lo relacionado con el nombre, logo, colores, distintivos, dotación de los trabajadores, para que sea debidamente utilizada en cada puesto de trabajo.
     .row.align-items-center
       .col-lg-8.mb-4.mb-lg-0
         p.mb-4 Además de adoptar comportamientos determinados por la etiqueta social y empresarial, el trabajador de una organización debe conocer y adoptar la imagen visual o identidad corporativa, es decir, la manifestación física de la marca, especialmente con el porte decoroso de la ropa de trabajo, dotación o insignias aportadas por la empresa.
@@ -303,7 +306,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1.text-white Protocolo y Etiqueta
-                  p.text-small.text-white Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente documento. Protocolo y Etiqueta. Saber estar y saber comportarse, específicamente el Capítulo 4 - Imagen persona”
+                  p.text-small.text-white Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente documento. #[b Protocolo y Etiqueta. Saber estar y saber comportarse, específicamente el Capítulo 4 - Imagen persona”]
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(href="https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=8012&pg=78" target="_blank")
                     span(style="color: #000000 !important") Descargar
