@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00000000001" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns00000000001" font="Open Sans" controllayout="npnxnanbsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="pxabnsnfns00000000001" font="Open Sans" controllayout="pxabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="npxnabnsnfns00000000001" font="Open Sans" controllayout="npxnabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="npnxnanbnsnfns00000000001" font="Open Sans" controllayout="npnxnanbnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="pxabnsnfns00000000000" font="Open Sans" controllayout="pxabnsnfns00000000000" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="npnxnanbsnfns00000000001" font="Didact Gothic" controllayout="npnxnanbsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000001" font="Didact Gothic" controllayout="pxabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="npxnabnsnfns00000000001" font="Didact Gothic" controllayout="npxnabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="npnxnanbnsnfns00000000001" font="Didact Gothic" controllayout="npnxnanbnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000000" font="Didact Gothic" controllayout="pxabnsnfns00000000000" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="SENA - Actividad did&amp;#225;ctica" />
+              <option name="title_text" value="Actividad did&amp;#225;ctica" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -35,7 +35,7 @@
           </optionlist>
           <option name="time_enabled" value="false">
             <options>
-              <option name="time_format" value="elapsed" />
+              <option name="time_format" value="none" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -70,7 +70,7 @@
           <option name="search" value="false" />
           <option name="closed_captions" value="false">
             <options>
-              <option name="font" value="Open Sans" />
+              <option name="font" value="Didact Gothic" />
             </options>
           </option>
           <option name="settings" value="false" />
@@ -78,7 +78,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="true" />
+          <option name="bottombar_enabled" value="false" />
         </options>
       </optiongroup>
       <optiongroup name="buttonoptions">
@@ -973,7 +973,7 @@
           <color name="btn_text_shadow">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xFF6C00" alpha="100" stop="0" />
+                <color rgb="0x000000" alpha="0" stop="0" />
               </colors>
             </fill>
           </color>
@@ -987,38 +987,38 @@
           <color name="btn_border">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+                <color rgb="0x030303" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="btn_hover">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x5A5A5A" alpha="100" stop="0" />
-                <color rgb="0x5A5A5A" alpha="100" stop="255" />
+                <color rgb="0xFDBC2E" alpha="100" stop="0" />
+                <color rgb="0xFFC000" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
           <color name="btn_down">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xFF6C00" alpha="100" stop="0" />
-                <color rgb="0xFF6C00" alpha="100" stop="255" />
+                <color rgb="0x141414" alpha="100" stop="0" />
+                <color rgb="0x323232" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
           <color name="btn_bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xFF6C00" alpha="100" stop="0" />
-                <color rgb="0xFF6C00" alpha="100" stop="255" />
+                <color rgb="0xF36F21" alpha="100" stop="0" />
+                <color rgb="0xF36F21" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
           <color name="btn_glow">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xFF6C00" alpha="100" stop="0" />
+                <color rgb="0x252525" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1058,24 +1058,24 @@
           <color name="border">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xFF6C00" alpha="100" stop="0" />
-                <color rgb="0xFF6C00" alpha="100" stop="255" />
+                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x000000" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
           <color name="bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xFF6C00" alpha="100" stop="0" />
-                <color rgb="0xFF6C00" alpha="100" stop="255" />
+                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x000000" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
           <color name="slide_bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xFF6C00" alpha="100" stop="0" />
-                <color rgb="0xFF6C00" alpha="100" stop="255" />
+                <color rgb="0x1D1D1D" alpha="100" stop="0" />
+                <color rgb="0x0B0B0B" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
@@ -1125,7 +1125,7 @@
           <color name="htmlpage_bg_color">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xFF6C00" alpha="100" stop="0" />
+                <color rgb="0x000000" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1151,7 +1151,7 @@
       <string id="next_shortcut">Siguiente diapositiva</string>
       <string id="mute_shortcut">Silenciar / activar sonido</string>
       <string id="replay_shortcut">Volver a reproducir la diapositiva</string>
-      <string id="prev">ANT</string>
+      <string id="prev">ANTERIOR</string>
       <string id="acc_previous">siguiente</string>
       <string id="clear">Borrar y volver al menú</string>
       <string id="close">Cerrar</string>
@@ -1167,7 +1167,7 @@
       <string id="restart">Reiniciar</string>
       <string id="acc_replay">repetición</string>
       <string id="acc_play">Reproducir</string>
-      <string id="next">SIG</string>
+      <string id="next">SIGUIENTE</string>
       <string id="acc_next">siguiente</string>
       <string id="finish">FINALIZAR</string>
       <string id="acc_volume">volumen</string>
@@ -1190,12 +1190,13 @@
       <string id="slide_text_chk">Texto Diapositiva</string>
       <string id="three_image_visited">visitado</string>
       <string id="three_image_audio">audio</string>
-      <string id="three_image_interaction_prev">previo</string>
+      <string id="three_image_interaction_prev">anterior</string>
       <string id="three_image_interaction_next">siguiente</string>
       <string id="three_image_camera_right">cámara movida a la derecha</string>
       <string id="three_image_camera_left">cámara movida a la izquierda</string>
       <string id="three_image_camera_down">cámara movida hacia abajo</string>
       <string id="three_image_camera_up">cámara movida hacia arriba</string>
+      <string id="three_image_tooltip">descripción emergente</string>
       <string id="three_image_label">etiqueta</string>
       <string id="three_image_interaction">interacción de la imagen de 360 grados</string>
       <string id="three_image_marker">marcador</string>
@@ -1210,9 +1211,15 @@
       <string id="three_image_play_audio">reproducir audio</string>
       <string id="three_image_play_video">reproducir video</string>
       <string id="three_image_video">video</string>
-      <string id="three_image_view_image">ver imagen</string>
       <string id="three_image_video_volume">volumen del video</string>
-      <string id="three_image_instructions">Utiliza las flechas del teclado para moverte por la imagen de 360 grados. Presiona la tecla TAB para saltar a los marcadores y puntos calientes interactivos.</string>
+      <string id="three_image_instructions">Utilice las teclas W, A, S y D para moverte por la imagen de 360 grados. Presione la tecla TAB para saltar a los marcadores interactivos y los puntos calientes.</string>
+      <string id="three_image_count_of_total">%count% de %total%</string>
+      <string id="acc_three_image_step_count_of_total">paso %count% de %total%</string>
+      <string id="three_image_total_items">%total% ítems</string>
+      <string id="three_image_total_item">%total% ítem</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% de %total% ítems visitados</string>
+      <string id="three_image_count_of_total_visited">%count% de %total% visitados</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% de %total% ítems visitados</string>
       <string id="three_image_item">ítem</string>
       <string id="three_image_items">ítems</string>
       <string id="three_image_of">de</string>
@@ -1257,9 +1264,9 @@
     </string_table>
   </string_tables>
   <fonts>
-    <font name="Open Sans">
+    <font name="Didact Gothic">
       <files>
-        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
         <file bold="false" italic="false" />
       </files>
     </font>
@@ -1268,10 +1275,10 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6iPYYXYye9N" displaytext="Escena sin título" expand="true" type="slide">
+        <slidelink slideid="_player.6g8RcXIVtvA" displaytext="Nuevo Presentación de Microsoft PowerPoint" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6iPYYXYye9N.60B7h4FKhhU" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.6kZhCJX055D" displaytext="Arrastrar y soltar" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6GrUdUpuerp" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6UFJnIyi2MW" displaytext="Arrastrar y soltar" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>

@@ -19,26 +19,24 @@
     .row.mb-5.bg-color7
       .col-12.px-5
         .row.my-5
-          .col-lg-6.linea1
-            .p-4
-              .row
-                .col-12
-                  figure.mb-5
-                    img(src='@/assets/curso/tema2/img2.svg', style="width: 200px")
-                .col-12(style="height: 330px")
-                  p.text-white Los bienes o artículos representados físicamente tienen singulares características dadas por la forma, tamaño, color, peso, calidad, contextura, olor, etc., aspectos que son evidentes a los ojos del comprador.  El oferente de productos debe conocer y comunicar claramente estas y otras características, como la materia prima utilizada, insumos, materiales, calidad, procedencia, fecha de fabricación y fecha de expiración; así como también las utilidades, instrucciones para su uso y conservación.  Adicionalmente, debe anunciar al comprador las condiciones de garantía y mantenimiento, dependiendo del tipo de producto.
-              figure.d-flex.justify-content-end
-                img(src='@/assets/curso/tema2/img4.svg', style="width: 100px")
-          .col-lg-6
-            .p-4
-              .row
-                .col-12
-                  figure.mb-5
-                    img(src='@/assets/curso/tema2/img3.svg', style="width: 200px")
-                .col-12(style="height: 330px")
-                  p.text-white Los servicios concebidos como actividades que implican un gasto de energía difieren del producto por su condición de “no material” o intangibilidad, otra característica es la perecibilidad relacionada con que no pueden almacenarse (si no se usan en el momento, perecen). También se caracterizan por su heterogeneidad, cada servicio es una experiencia única e irrepetible, y finalmente por su simultaneidad porque se consumen al mismo tiempo que se producen (Fischer, 2011).
-              figure.d-flex.justify-content-end
-                img(src='@/assets/curso/tema2/img4.svg', style="width: 100px")
+          .col-lg-6.p-4.linea1
+            .row
+              .col-12
+                figure.mb-5
+                  img(src='@/assets/curso/tema2/img2.svg', style="width: 200px")
+              .col-12.bg-color14
+                p.text-white Los bienes o artículos representados físicamente tienen singulares características dadas por la forma, tamaño, color, peso, calidad, contextura, olor, etc., aspectos que son evidentes a los ojos del comprador.  El oferente de productos debe conocer y comunicar claramente estas y otras características, como la materia prima utilizada, insumos, materiales, calidad, procedencia, fecha de fabricación y fecha de expiración; así como también las utilidades, instrucciones para su uso y conservación.  Adicionalmente, debe anunciar al comprador las condiciones de garantía y mantenimiento, dependiendo del tipo de producto.
+            figure.d-flex.justify-content-end
+              img(src='@/assets/curso/tema2/img4.svg', style="width: 100px")
+          .col-lg-6.p-4
+            .row
+              .col-12
+                figure.mb-5
+                  img(src='@/assets/curso/tema2/img3.svg', style="width: 200px")
+              .col-12.bg-color14
+                p.text-white Los servicios concebidos como actividades que implican un gasto de energía difieren del producto por su condición de “no material” o intangibilidad, otra característica es la perecibilidad relacionada con que no pueden almacenarse (si no se usan en el momento, perecen). También se caracterizan por su heterogeneidad, cada servicio es una experiencia única e irrepetible, y finalmente por su simultaneidad porque se consumen al mismo tiempo que se producen (Fischer, 2011).
+            figure.d-flex.justify-content-end
+              img(src='@/assets/curso/tema2/img4.svg', style="width: 100px")
     .row.mb-4.align-items-center
       .col-lg-8.mb-4.mb-lg-0
         .row.align-items-start
