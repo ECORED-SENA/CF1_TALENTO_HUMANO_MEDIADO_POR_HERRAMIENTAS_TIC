@@ -162,10 +162,10 @@
         .row.justify-content-center
           .col-lg-10
             SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-              .tarjeta.color-acento-botones
+              .tarjeta.color-acento-botones.h-100
                 img(src='@/assets/curso/tema2/img4.png', style="width: 800px")
                 .row(style="height: 245px")
-                  .px-5.pt-3.pb-4
+                  .px-5.pt-3
                     ul.lista-ul
                       li 
                         i.far.fa-circle(style="color: #7F4FC7")
@@ -179,10 +179,10 @@
                       li 
                         i.far.fa-circle(style="color: #7F4FC7")
                         | Asesores comerciales
-              .tarjeta.color-acento-botones
+              .tarjeta.color-acento-botones.h-100
                 img(src='@/assets/curso/tema2/img5.png', style="width: 800px")
                 .row
-                  .px-5.pt-3.pb-4
+                  .px-5.pt-3
                     ul.lista-ul
                       li 
                         i.far.fa-circle(style="color: #7F4FC7")
@@ -202,10 +202,10 @@
                       li 
                         i.far.fa-circle(style="color: #7F4FC7")
                         | Dispositivos móviles
-              .tarjeta.color-acento-botones
+              .tarjeta.color-acento-botones.h-100
                 img(src='@/assets/curso/tema2/img6.png', style="width: 800px")
                 .row(style="height: 245px")
-                  .px-5.pt-3.pb-4
+                  .px-5.pt-3
                     ul.lista-ul
                       li 
                         i.far.fa-circle(style="color: #7F4FC7")
@@ -216,10 +216,10 @@
                       li 
                         i.far.fa-circle(style="color: #7F4FC7")
                         | Publicaciones
-              .tarjeta.color-acento-botones
+              .tarjeta.color-acento-botones.h-100
                 img(src='@/assets/curso/tema2/img7.png', style="width: 800px")
                 .row(style="height: 245px")
-                  .px-5.pt-3.pb-4
+                  .px-5.pt-3
                     ul.lista-ul
                       li 
                         i.far.fa-circle(style="color: #7F4FC7")
@@ -233,10 +233,10 @@
                       li 
                         i.far.fa-circle(style="color: #7F4FC7")
                         | Video
-              .tarjeta.color-acento-botones
+              .tarjeta.color-acento-botones.h-100
                 img(src='@/assets/curso/tema2/img8.png', style="width: 800px")
                 .row(style="height: 245px")
-                  .px-5.pt-3.pb-4
+                  .px-5.pt-3
                     ul.lista-ul
                       li 
                         i.far.fa-circle(style="color: #7F4FC7")
@@ -289,13 +289,13 @@
     .row.mb-5.bg-color9
       .col-12.p-5
         SlyderF(columnas="col-lg-6 col-xl-4")
-          .tarjeta-avatar-b
+          .tarjeta-avatar-b.h-100
             .tarjeta-avatar-b__img
               img(src='@/assets/curso/tema2/img15.svg' alt='AvatarTop')
             .tarjeta.tarjeta--gris
               .p-4
                 p Constitución Política de Colombia de 1991, Artículos 23 y 74:  todas las personas tienen derecho a presentar solicitudes respetuosas ante las autoridades, con el fin de obtener pronta resolución.
-          .tarjeta-avatar-b
+          .tarjeta-avatar-b.h-100
             .tarjeta-avatar-b__img
               img(src='@/assets/curso/tema2/img16.svg' alt='AvatarTop')
             .tarjeta.tarjeta--gris(style="height: 235px")
@@ -303,7 +303,7 @@
                 br
                 br
                 p Decreto 1166 del 2016, acerca de la presentación de solicitudes verbales.
-          .tarjeta-avatar-b
+          .tarjeta-avatar-b.h-100
             .tarjeta-avatar-b__img
               img(src='@/assets/curso/tema2/img17.svg' alt='AvatarTop')
             .tarjeta.tarjeta--gris(style="height: 235px")
@@ -311,7 +311,7 @@
                 br
                 br
                 p Ley 1755 del 2015, que regula el derecho de petición.
-          .tarjeta-avatar-b
+          .tarjeta-avatar-b.h-100
             .tarjeta-avatar-b__img
               img(src='@/assets/curso/tema2/img17.svg' alt='AvatarTop')
             .tarjeta.tarjeta--gris(style="height: 235px")
@@ -319,7 +319,7 @@
                 br
                 br
                 p Ley 1437 del 2011, Código de procedimiento administrativo.
-          .tarjeta-avatar-b
+          .tarjeta-avatar-b.h-100
             .tarjeta-avatar-b__img
               img(src='@/assets/curso/tema2/img17.svg' alt='AvatarTop')
             .tarjeta.tarjeta--gris(style="height: 235px")
@@ -327,7 +327,7 @@
                 br
                 br
                 p Decreto 019 del 2012 de supresión de procedimientos y trámites innecesarios.
-          .tarjeta-avatar-b
+          .tarjeta-avatar-b.h-100
             .tarjeta-avatar-b__img
               img(src='@/assets/curso/tema2/img17.svg' alt='AvatarTop')
             .tarjeta.tarjeta--gris(style="height: 235px")
