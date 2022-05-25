@@ -219,14 +219,7 @@ export default {
     },
     {
       texto:
-        'Carlzon, J. (2007). <em>El momento de la verdad</em>. Ediciones Díaz de Santos.',
-      tipo: 'Libro electrónico',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/55491?page=1',
-    },
-    {
-      texto:
-        'Trimpractik. (2020). <em>Cómo establecer una cultura basada en el cliente</em> [video]. YouTube.',
+        'Trimpractik. (2020). <em>Cómo establecer una cultura de servicio centrada en el cliente</em> [video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=8Tg9Wmsy1C4',
     },

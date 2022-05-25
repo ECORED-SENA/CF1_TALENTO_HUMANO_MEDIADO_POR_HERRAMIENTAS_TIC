@@ -91,20 +91,7 @@
                 figure
                   img(src='@/assets/curso/tema1/img1.svg', style="width: 60px")
               .col
-                p Además de estar enfocado en el cliente (lo que observa, dice, calla, pregunta, siente, quiere, etc.), adoptó otras transformaciones centradas en las relaciones con el personal interno, buscando hacer menos jerarquizada la organización, mucho más participativa, donde se escuchará con todos los sentidos a los directos encargados de tratar con el cliente. Para conocer más de las estrategias utilizadas por Jan Carlzon en la transformación cultural de Scandinavian Airlines SAS, ingrese y lea apartes del texto #[b El momento de la verdad], que se encuentra en el sistema de bibliotecas del SENA.
-            .tarjeta.color-primario.p-3.mb-4
-              .row.justify-content-around.align-items-center
-                .col-3.col-sm-2.col-lg-1
-                  img(src="@/assets/curso/tema1/img16.svg")
-                .col
-                  .row.justify-content-between.align-items-center
-                    .col.mb-3.mb-sm-0
-                      h3.mb-1.text-white El momento de la verdad
-                      p.text-small.text-white Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente documento.
-                    .col-sm-auto
-                      a.boton.color-acento-botones.texto-blanco(href="https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/55491" target="_blank")
-                        span(style="color: #000000 !important") Descargar
-                        i.fas.fa-file-download(style="color: #000000 !important")
+                p Además de estar enfocado en el cliente (lo que observa, dice, calla, pregunta, siente, quiere, etc.), adoptó otras transformaciones centradas en las relaciones con el personal interno, buscando hacer menos jerarquizada la organización, mucho más participativa, donde se escuchará con todos los sentidos a los directos encargados de tratar con el cliente.
             p Hoy, los momentos de verdad pueden ser millones al día, aplicables a todo tipo de organizaciones sociales y empresariales, están representados por todas las interacciones que tienen los clientes con la organización, y la responsabilidad de los prestadores de servicio es hacer de cada momento una experiencia memorable.
           .col-lg-4
             figure(data-aos="zoom-in-up")
@@ -150,7 +137,7 @@
       .col-12.px-5
         .row.align-items-center.mt-5
           .col-lg-7.mb-4.mb-lg-0
-            p.mb-4 El sistema se refiere a la tecnologías o técnicas dispuestas para la información, comunicación, traslado, transporte, distribución del producto o servicio, incluso a la misma disposición, ambientación, ergonomía, espacios, máquinas, parqueaderos, ascensores, dispositivos de turno y despacho, todos en función de escuchar y atender los requerimientos del cliente, alineados con la estrategia organizacional y claramente conocidos y manejados por el personal o punto de contacto.
+            p.mb-4 El sistema se refiere a las tecnologías o técnicas dispuestas para la información, comunicación, traslado, transporte, distribución del producto o servicio, incluso a la misma disposición, ambientación, ergonomía, espacios, máquinas, parqueaderos, ascensores, dispositivos de turno y despacho, todos en función de escuchar y atender los requerimientos del cliente, alineados con la estrategia organizacional y claramente conocidos y manejados por el personal o punto de contacto.
             h4.txt-deco3 Cultura de servicio
             p El fomento de una cultura de servicio parte del ejemplo, por tanto, los directivos son los primeros responsables de comunicar la estrategia de servicio, de disponer los recursos humanos, técnicos y tecnológicos para la atención de los clientes y sobre todo, de demostrar con sus comportamientos y actitudes que están #[span.txt-deco1 al servicio de su organización, si los trabajadores (clientes internos) están satisfechos y motivados, ellos se encargarán de atender muy bien a los clientes externos].
             p.mb-4 Se invita a ver el video #[span.txt-deco1 “Cómo establecer una cultura de servicio centrada en el cliente”], el cual se encuentra en el material complementario y donde podrá comprender la coherencia que debe existir entre lo que se dice, piensa y hace con destino al cliente, de quien depende el negocio, por lo que el personal interno debe estar suficientemente motivado y comprometido con la misión del negocio y el empresario dispuesto a cambiar el sentido de la pirámide organizacional, dejar de pensar en sí misma y enfocarse en el cliente interno, que ellos se encargarán de satisfacer al cliente externo.

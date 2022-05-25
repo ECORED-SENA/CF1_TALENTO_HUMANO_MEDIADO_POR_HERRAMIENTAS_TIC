@@ -105,7 +105,7 @@
               ul.lista-ul
                 li 
                   i.far.fa-circle(style="color: #7F4FC7")
-                  |  Abarca los relacionado con las comunicación, la investigación y la nanotecnología.
+                  |  Abarca lo relacionado con la comunicación, la investigación y la nanotecnología.
                 li 
                   i.far.fa-circle(style="color: #7F4FC7")
                   | Como servicios de comunicación telefónica, celular, redes, Internet, vacunas, creación de sistemas electrónicos.
@@ -119,7 +119,6 @@
             p.mb-0 Para ampliar la información se recomienda la lectura del artículo #[span.txt-deco2 “Las TIC y la nanotecnología”], que se encuentra en el material complementario.
       figure
         img(src='@/assets/curso/tema1/img9.svg').img-deco1
-    p.mb-5 Para ampliar la información se recomienda la lectura del artículo #[span.txt-deco2 “Las TIC y la nanotecnología”], que se encuentra en el material complementario.
     .row.mb-5.align-items-center
       .col-lg-4.mb-4.mb-lg-0
         figure(data-aos="zoom-in")
@@ -158,7 +157,7 @@
                 tr
                   td A
                   td 01-03
-                  td Agricultura, ganaderia, silvicultura y pesca.
+                  td Agricultura, ganadería, silvicultura y pesca.
                 tr
                   td B
                   td 05-09
@@ -170,7 +169,7 @@
                 tr
                   td D
                   td 35
-                  td Suministro de electridicad, gas, vapor y aire acondicionado.
+                  td Suministro de electricidad, gas, vapor y aire acondicionado.
                 tr
                   td E
                   td 36-39
@@ -182,7 +181,7 @@
                 tr
                   td G
                   td 45-47
-                  td Comercio al por mayor y al por menor; reparación de vehiculos automotores y motocicletas.
+                  td Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas.
                 tr
                   td H
                   td 49-53
@@ -234,7 +233,7 @@
                 tr
                   td T
                   td 97-98
-                  td Avtividades de los hogares como empleadores; actividades no diferenciadas de los hogares como productores de bienes y servicios para uso propio.
+                  td Actividades de los hogares como empleadores; actividades no diferenciadas de los hogares como productores de bienes y servicios para uso propio.
                 tr
                   td U
                   td 99
@@ -306,7 +305,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1.text-white Protocolo y Etiqueta
-                  p.text-small.text-white Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente documento. #[b Protocolo y Etiqueta. Saber estar y saber comportarse, específicamente el Capítulo 4 - Imagen persona”]
+                  p.text-small.text-white Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente documento. #[b Protocolo y Etiqueta. Saber estar y saber comportarse, específicamente el Capítulo 4 - Imagen persona]
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(href="https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=8012&pg=78" target="_blank")
                     span(style="color: #000000 !important") Descargar
